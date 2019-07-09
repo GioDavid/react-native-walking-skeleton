@@ -1,0 +1,202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "height": 1334,
+    }
+  }
+>
+  <RCTScrollView>
+    <View>
+      <View
+        onLayout={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#F8F8F8",
+              "borderBottomColor": "#a7a6ab",
+              "borderBottomWidth": 0.5,
+              "elevation": 3,
+              "flexDirection": "row",
+              "height": 64,
+              "justifyContent": "center",
+              "left": 0,
+              "paddingLeft": 6,
+              "paddingRight": 10,
+              "paddingTop": 18,
+              "right": 0,
+              "shadowColor": undefined,
+              "shadowOffset": undefined,
+              "shadowOpacity": undefined,
+              "shadowRadius": undefined,
+              "top": 0,
+            }
+          }
+        />
+      </View>
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#000",
+              "fontFamily": "System",
+              "fontSize": 16,
+            }
+          }
+          uppercase={false}
+        >
+          Main
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#F8F8F8",
+            "borderColor": "#cbcbcb",
+            "borderTopWidth": 0.5,
+            "elevation": 3,
+            "flexDirection": "row",
+            "height": 55,
+            "justifyContent": "center",
+            "left": 0,
+            "paddingBottom": 0,
+            "right": 0,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "stretch",
+              "backgroundColor": undefined,
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            accessible={true}
+            clickable={false}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "alignSelf": "center",
+                "backgroundColor": "transparent",
+                "borderBottomWidth": null,
+                "borderColor": null,
+                "borderLeftWidth": null,
+                "borderRadius": 5,
+                "borderRightWidth": null,
+                "borderTopWidth": null,
+                "borderWidth": undefined,
+                "elevation": 0,
+                "flex": 1,
+                "flexDirection": null,
+                "height": 55,
+                "justifyContent": "center",
+                "opacity": 1,
+                "paddingBottom": 6,
+                "paddingTop": 6,
+                "shadowColor": null,
+                "shadowOffset": null,
+                "shadowOpacity": null,
+                "shadowRadius": null,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "#6b6b6b",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "lineHeight": 16,
+                  "marginLeft": 0,
+                  "marginRight": 0,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                }
+              }
+              uppercase={false}
+            >
+              Pagar
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            clickable={false}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "alignSelf": "center",
+                "backgroundColor": "transparent",
+                "borderBottomWidth": null,
+                "borderColor": null,
+                "borderLeftWidth": null,
+                "borderRadius": 5,
+                "borderRightWidth": null,
+                "borderTopWidth": null,
+                "borderWidth": undefined,
+                "elevation": 0,
+                "flex": 1,
+                "flexDirection": null,
+                "height": 55,
+                "justifyContent": "center",
+                "opacity": 1,
+                "paddingBottom": 6,
+                "paddingTop": 6,
+                "shadowColor": null,
+                "shadowOffset": null,
+                "shadowOpacity": null,
+                "shadowRadius": null,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "#6b6b6b",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "lineHeight": 16,
+                  "marginLeft": 0,
+                  "marginRight": 0,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                }
+              }
+              uppercase={false}
+            >
+              Cobrar
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
